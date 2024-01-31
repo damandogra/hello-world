@@ -1,3 +1,4 @@
 # hello-world
 trial tutorial
-# this is a trial project for me to learn GitHub and Git.
+# This is a trial project for me to learn GitHub and Git.
+# I'm in process coder; see you in 2 years.
